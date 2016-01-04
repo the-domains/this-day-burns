@@ -1,7 +1,7 @@
 name: This Day Burns
 favicon: null
-layout_spectrum: 0.6966964409220964
-typography_spectrum: 0.6920034370850772
+layout_spectrum: 1
+typography_spectrum: 0.1865
 title: This Day Burns
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.6875
-  lightness: 0.044039810076355934
-  saturation: 0.7232214699033648
-  rhythmicContrast: 0.42640850506722927
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
