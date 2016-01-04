@@ -2,6 +2,7 @@ name: This Day Burns
 favicon: null
 layout_spectrum: 0.6966964409220964
 typography_spectrum: 0.6920034370850772
+title: This Day Burns
 cta:
   domain: null
   bucket: null
